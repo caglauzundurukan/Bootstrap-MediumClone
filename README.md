@@ -5,7 +5,7 @@ My Medium clone project that i created for the bootstrap course of the Patikadev
 <br> <br>
 -Written using HTML, CSS and Bootstrap.
 <br> <br>
--**Screenshot of the project:**
+-**Screenshots of the project:**
 <br> <br>
 **1. Screenshot:**
 ![medium3](https://user-images.githubusercontent.com/73706248/180663773-02062f0c-3e87-49d9-b18b-f6d2804eb408.png)
